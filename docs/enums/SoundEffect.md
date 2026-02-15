@@ -128,7 +128,7 @@ tags:
 |[ ](#){: .alldlc .tooltip .badge }|182 |SOUND_BOSS1_EXPLOSIONS {: .copyable } | <audio controls preload="none"><source src="https://catinsurance.github.io/sounds/182.wav" type="audio/wav"></audio>| Bomb explosion sound |
 |[ ](#){: .reporplus .tooltip .badge }|183 |SOUND_EXPLOSION_WEAK {: .copyable } | <audio controls preload="none"><source src="https://catinsurance.github.io/sounds/183.wav" type="audio/wav"></audio>|  |
 |[ ](#){: .reporplus .tooltip .badge }|184 |SOUND_EXPLOSION_STRONG {: .copyable } | <audio controls preload="none"><source src="https://catinsurance.github.io/sounds/184.wav" type="audio/wav"></audio>|  |
-|[ ](#){: .alldlc .tooltip .badge }|185 |SOUND_BOSS2_BUBBLES {: .copyable } | <audio controls preload="none"><source src="https://catinsurance.github.io/sounds/185.wav" type="audio/wav"></audio>|  |
+|[ ](#){: .alldlc .tooltip .badge }|185 |SOUND_BOSS2_BUBBLES {: .copyable } | <audio controls preload="none"><source src="https://catinsurance.github.io/sounds/185.wav" type="audio/wav"></audio>| Red Heart |
 |[ ](#){: .reporplus .tooltip .badge }|186 |SOUND_EXPLOSION_DEBRIS {: .copyable } | <audio controls preload="none"><source src="https://catinsurance.github.io/sounds/186.wav" type="audio/wav"></audio>|  |
 |[ ](#){: .alldlc .tooltip .badge }|187 |SOUND_BOSS2INTRO_ERRORBUZZ {: .copyable } | <audio controls preload="none"><source src="https://catinsurance.github.io/sounds/187.wav" type="audio/wav"></audio>| Incorrect buzzer or cancel sound |
 |[ ](#){: .alldlc .tooltip .badge }|190 |SOUND_CASTLEPORTCULLIS {: .copyable } | <audio controls preload="none"><source src="https://catinsurance.github.io/sounds/190.wav" type="audio/wav"></audio>| Entering a boss arena and the door closes |
